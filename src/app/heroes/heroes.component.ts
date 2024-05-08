@@ -13,9 +13,5 @@ export class HeroesComponent {
   hero: Hero = {
     id: 12345,
     name: 'Windstorm'
-
-
   };
-
-
 }
