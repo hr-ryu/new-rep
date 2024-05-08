@@ -11,7 +11,7 @@ import { Hero } from '../hero';
 })
 export class HeroesComponent {
   hero: Hero = {
-    id: 123456,
+    id: 12345,
     name: 'Windstorm'
   };
 
